@@ -6,4 +6,4 @@ def my_function():
 
 # Calling Functions (함수 호출)
 my_function()
-    
+
